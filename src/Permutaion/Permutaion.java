@@ -222,7 +222,7 @@ public class Permutaion {
 //			}
 			
 			
-				*/
+
 		//the following code is fine for the size is 2	
 //			if(replicate[position]==rows) {
 //				replicate[position]=0;
