@@ -221,6 +221,18 @@ public class Permutaion {
 //				replicate[position]++;
 //			}
 			
+			
+				*/
+		//the following code is fine for the size is 2	
+//			if(replicate[position]==rows) {
+//				replicate[position]=0;
+//				position--;
+//				replicate[position]++;
+//				position=replicate.length-1;
+//			}else {
+//				replicate[position]++;
+//			}
+			
 		}
 		
 		
